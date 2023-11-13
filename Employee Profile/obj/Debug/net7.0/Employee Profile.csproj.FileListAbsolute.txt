@@ -1,0 +1,80 @@
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\appsettings.json
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Employee Profile.exe
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Employee Profile.deps.json
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Employee Profile.runtimeconfig.json
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Employee Profile.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Employee Profile.pdb
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.csproj.AssemblyReference.cache
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.AssemblyInfoInputs.cache
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.AssemblyInfo.cs
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.csproj.CoreCompileInputs.cache
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\staticwebassets\msbuild.Employee Profile.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\staticwebassets\msbuild.build.Employee Profile.props
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Employee Profile.props
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Employee Profile.props
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\scopedcss\bundle\Employee Profile.styles.css
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.csproj.CopyComplete
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\refint\Employee Profile.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.pdb
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\Employee Profile.genruntimeconfig.cache
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\obj\Debug\net7.0\ref\Employee Profile.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\log4net.config
+C:\Users\Basem - PC\source\repos\Employee Profile\Employee Profile\bin\Debug\net7.0\log4net.dll
