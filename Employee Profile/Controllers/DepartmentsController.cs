@@ -38,7 +38,7 @@ namespace Employee_Profile.Controllers
         // GET: api/<DepartmentsController>
         [HttpPost]
         [Route("RaiseSalaries")]
-        public ActionResult RaiseSalaries(int departmentId, [FromBody] RaiseSalaryViewModel raiseSalaryViewModel)
+        public async Task<ActionResult> RaiseSalariesAsync(int departmentId, [FromBody] RaiseSalaryViewModel raiseSalaryViewModel)
         {
 
             try
@@ -49,7 +49,16 @@ namespace Employee_Profile.Controllers
                 if (!Enum.TryParse(raiseSalaryViewModel.RaiseType, out raiseType))
                     return BadRequest("Raise type is not recognized, Should be eathier Fixed/Percentage");
 
-                _departmentsManager.ApplyRaise(raiseType, raiseSalaryViewModel.Value, departmentId);
+                if (raiseSalaryViewModel.Value <= 0)
+                    return BadRequest("Value should be greater than 0 .");
+
+                var department = await _departmentsManager.GetDepartmentById(departmentId);
+
+                if (department == null)
+                    return BadRequest("Department specified is not availlable");
+
+
+                await _departmentsManager.ApplyRaise(raiseType, raiseSalaryViewModel.Value, departmentId);
 
                 return Ok();
             }

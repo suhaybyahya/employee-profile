@@ -19,7 +19,7 @@ The project is Web API new core project built with the latest versions of .net (
 
 ### Prerequisites
 
-Make sure you have .net core SDK or atleast the .net runtime 
+Make sure you have .net core SDK or at least the .net runtime 
 installed and you have also to prepare a valid SQL DB server connection weather it is hosted on your machine or other machines you only need a valid connection.
 
 ### How to run the app 
