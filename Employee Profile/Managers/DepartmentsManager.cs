@@ -9,14 +9,18 @@ namespace Employee_Profile.Managers
     {
         private IDepartmentsRepository _departmentsRepository;
         private IEmployeesRepository _employeesRepository;
-        public DepartmentsManager(IDepartmentsRepository departmentsRepository, IEmployeesRepository employeesRepository)
+        private Logger.ILogger _logger;
+        public DepartmentsManager(IDepartmentsRepository departmentsRepository, IEmployeesRepository employeesRepository, Logger.ILogger logger)
         {
             _departmentsRepository = departmentsRepository;
             _employeesRepository = employeesRepository;
+            _logger = logger;
         }
 
         public Task ApplyRaise(RaiseType raiseType, float value, int departmentId)
         {
+            _logger.LogDebug($"DepartmentsManager.ApplyRaise params : {raiseType} {value} {departmentId}");
+
             if (raiseType == RaiseType.Fixed)
                 _employeesRepository.ApplyFixedRaise(departmentId, value);
 
@@ -28,11 +32,13 @@ namespace Employee_Profile.Managers
 
         public Task<IEnumerable<Department>> GetAllAsync()
         {
+            _logger.LogDebug($"DepartmentsManager.GetAllAsync");
             return _departmentsRepository.GetAllAsync();
         }
 
         public Task<Department?> GetDepartmentById(int id)
         {
+            _logger.LogDebug($"DepartmentsManager.GetAllAsync params : {id}");
             return _departmentsRepository.GetDepartmentById(id);
         }
     }

@@ -25,12 +25,12 @@ namespace Employee_Profile.Controllers
         {
             try
             {
-                _logger.LogError("Get Departments");
+                _logger.LogDebug("DepartmentsController.Get");
                 return _departmentsManager.GetAllAsync().Result;
             }
             catch (Exception e)
             {
-                _logger.LogError($"Error while retrieving departments : {e.Message}");
+                _logger.LogError($"Error while retrieving departments : {e.Message} , {e.StackTrace}");
                 return Enumerable.Empty<Department>();
             }
         }
@@ -43,6 +43,7 @@ namespace Employee_Profile.Controllers
 
             try
             {
+                _logger.LogDebug($"DepartmentsController.RaiseSalaries params : {departmentId} {raiseSalaryViewModel.RaiseType} {raiseSalaryViewModel.Value}");
                 RaiseType raiseType;
 
                 if (!Enum.TryParse(raiseSalaryViewModel.RaiseType, out raiseType))
@@ -54,7 +55,7 @@ namespace Employee_Profile.Controllers
             }
             catch (Exception e)
             {
-                _logger.LogError($"Error while executing RaiseSalaries API : {e.Message}");
+                _logger.LogError($"Error while executing RaiseSalaries API : {e.Message} , {e.StackTrace}");
                 return StatusCode(StatusCodes.Status500InternalServerError, $"Error while executing RaiseSalaries API");
             }
 
