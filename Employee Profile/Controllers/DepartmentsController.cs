@@ -43,7 +43,6 @@ namespace Employee_Profile.Controllers
 
             try
             {
-                throw new Exception("Exception thrown");
                 RaiseType raiseType;
 
                 if (!Enum.TryParse(raiseSalaryViewModel.RaiseType, out raiseType))
